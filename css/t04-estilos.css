@@ -1,0 +1,80 @@
+body{
+    background-color: #f6d13f;
+    font-family: cursive
+}
+#prueba{
+    color: #304db5;
+background-color: #59a7bb;
+padding: 10px;
+border: 1px solid #535a5e;
+text-align: center;
+font-size: 45px;
+}
+.navbar-brand{
+    img{width: 10%;border: 1px solid #304db5;}
+    a{color: #304db5; text-decoration:solid;
+    padding: 5px;}
+}
+#menu {
+color: #304db5;
+background-color: #59a7bb;
+padding: 10px;
+border: 1px solid #535a5e;
+text-align: center;
+font-size: 45px;
+}
+#menu a,
+#menu a:visited {
+color: #304db5;
+text-decoration: none;
+padding: 5px;
+text-align: center;
+font-size: 45px;
+}
+#menu a:hover {
+color: #043555;
+background-color: #007cb9;
+padding: 5px;
+text-align: center;
+font-size: 45px;
+}
+#contener {
+width: 80%;
+text-align: center;
+border: 2px solid #ede862;
+padding: 20px;
+margin-top: 10px;
+background-color: #e8a725
+}
+#titulo{
+    color:#D22B2B;
+    background-color: #59a7bb;
+    font-family: fantasy;
+    font-size: 50px;
+    text-align:center;
+}
+#cuerpo{
+    color:#304db5;
+    background-color:#ede862;
+    font-family: cursive;font-size: 25px;
+a{color: #D22B2B; font-family:cursive;font-size: 25px;}
+}
+#imagenes{
+     text-align: center;
+     background-color: #304db5;
+     img {width: 30%;border: 1px solid #304db5;}
+}
+#contactos{
+    color:#007cb9;
+    background-color:#ede862;
+    font-family: cursive;
+    font-size: 20px;}
+#final{
+    color: #D22B2B; 
+    font-family: monospace;
+    font-size: 25px;
+    padding: 45px;
+    text-align: left;
+}
+
+

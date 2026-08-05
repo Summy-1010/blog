@@ -1,0 +1,19 @@
+#contener {
+width: 80%;
+border: 2px solid #d5eeff;
+padding: 20px;
+margin-top: 10px;
+background-color: #007cb9;
+}
+img {
+height: 200px;
+border: 1px solid #d5eeff;
+float: right;
+}
+#final {
+font-family: 'Courier New', Courier, monospace;
+font-size: 0.75em;
+color: #005689;
+background-color: #d5eeff;
+padding: 10px;
+}
