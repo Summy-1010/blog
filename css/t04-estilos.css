@@ -1,43 +1,28 @@
 body{
     background-color: #f6d13f;
-    font-family: cursive
-}
-#prueba{
-    color: #304db5;
-background-color: #59a7bb;
-padding: 10px;
-border: 1px solid #535a5e;
-text-align: center;
-font-size: 45px;
+    font-family: arial
 }
 .navbar-brand{
     img{width: 10%;border: 1px solid #304db5;}
     a{color: #304db5; text-decoration:solid;
     padding: 5px;}
-}
-#menu {
 color: #304db5;
 background-color: #59a7bb;
 padding: 10px;
 border: 1px solid #535a5e;
 text-align: center;
 font-size: 45px;
-}
-#menu a,
-#menu a:visited {
 color: #304db5;
 text-decoration: none;
 padding: 5px;
 text-align: center;
 font-size: 45px;
-}
-#menu a:hover {
 color: #043555;
 background-color: #007cb9;
 padding: 5px;
 text-align: center;
-font-size: 45px;
-}
+font-size: 45px;}
+
 #contener {
 width: 80%;
 text-align: center;
