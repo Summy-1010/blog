@@ -2,27 +2,19 @@ body{
     background-color: #f6d13f;
     font-family: arial
 }
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    color: #304db5;
+    background-color: #304db5;
+    padding: 10px;
+    border: 1px solid #e8a725;
+    text-align: center;
+    font-size: 45px;
+}
 .navbar-brand{
     img{width: 10%;border: 1px solid #304db5;}
     a{color: #304db5; text-decoration:solid;
     padding: 5px;}
-color: #304db5;
-background-color: #59a7bb;
-padding: 10px;
-border: 1px solid #535a5e;
-text-align: center;
-font-size: 45px;
-color: #304db5;
-text-decoration: none;
-padding: 5px;
-text-align: center;
-font-size: 45px;
-color: #043555;
-background-color: #007cb9;
-padding: 5px;
-text-align: center;
-font-size: 45px;}
-
+}
 #contener {
 width: 80%;
 text-align: center;
@@ -35,7 +27,7 @@ background-color: #e8a725
     color:#D22B2B;
     background-color: #59a7bb;
     font-family: fantasy;
-    font-size: 50px;
+    font-size: 70px;
     text-align:center;
 }
 #cuerpo{
@@ -60,6 +52,7 @@ a{color: #D22B2B; font-family:cursive;font-size: 25px;}
     font-size: 25px;
     padding: 45px;
     text-align: left;
+    background-color: #e8a725;
 }
 
 
